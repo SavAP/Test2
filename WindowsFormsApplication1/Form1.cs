@@ -19,8 +19,8 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int i =22;
-            textBox1.Text = Convert.ToString(i);
+            
+            textBox1.Text = "привет";
         }
     }
 }
