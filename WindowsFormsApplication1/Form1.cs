@@ -19,7 +19,7 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int i = 0;
+            int i = 21;
             textBox1.Text = Convert.ToString(i);
         }
     }
